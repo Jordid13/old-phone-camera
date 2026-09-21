@@ -1,4 +1,4 @@
-⚠️ Disclaimer: This is a side passion project largely developed using AI, if there are are any script errors or wrong statements feel free to let me know as they could've slipped through my scans.
+⚠️ Disclaimer: This is a side passion project largely developed using AI, if there are are any script errors or wrong statements feel free to let me know as they could've slipped through my scans. **This repo aims to document the whole process.**
 
 # old-phone-camera
 
