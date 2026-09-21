@@ -1,0 +1,7 @@
+*.apk
+*.apkm
+*.png
+*.jpg
+*.mjpg
+/tmp/
+.DS_Store
